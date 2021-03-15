@@ -4,9 +4,9 @@ Le restaurant Comédie est un restaurant d'affaires situé à Bellignat (01). J'
 
 ![Logo du restaurant Comédie](./assets/logo.png)
 
-Le logo s'inspire de deux briques rouges, rappelant les nouveaux murs en briquettes rouge de style industriel qui accentue le nouveau décor de la salle.
+Le logo s'inspire de deux briques rouges, rappelant les nouveaux murs en briquettes rouge de style industriel qui accentuent le nouveau décor de la salle.
 
-L'image du restaurant étant grandement rattachée à ses gérants, ce logo se veut plutôt neutre mais distinctif. Cette distinction est d'ailleurs réutilisée pour créer la favicon du site (non encore publié).
+L'image du restaurant étant grandement rattachée à ses gérants, j'ai voulu rester neutre mais distinctif. Cette distinction est d'ailleurs réutilisée pour créer la favicon du site (qui n'est pas encore publié).
 
 ![Favicon du restaurant Comédie](./assets/favicon.png)
 

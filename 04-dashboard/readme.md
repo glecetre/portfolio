@@ -1,4 +1,4 @@
-# Dashboard
+# Dashboard (🚧)
 
 Ce dashboard avait été imaginé pour être affiché sur un écran d'accueil lors de l'un de mes précédents postes. Il devait afficher un calendrier des prochains événements ainsi qu'une section de messages libres (connectée à Slack) et quelques autres widgets.
 

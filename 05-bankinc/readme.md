@@ -1,4 +1,4 @@
-# Bank Inc
+# Bank Inc (🚧)
 
 Site web fictif de gestion bancaire. Ce projet non terminé était l'occasion d'explorer quelques animations en React et un design épuré inspiré de Fluent.
 
